@@ -9,9 +9,6 @@ h3 {
   text-align: center;
 }
 .center {
-  display: table-cell;
-   height: 395px;
    text-align: center;
-   width: 222px;
    vertical-align: middle;
 }
